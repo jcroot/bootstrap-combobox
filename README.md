@@ -80,7 +80,7 @@ When activating the plugin, you may include an object containing options for the
 
  `iconRemove`: Custom icon font class for the remove button of the combobox. This is only effective when using {bsVersion: '4'}. (e.g. 'fas fa-times' when using Font Awesome)
  
- 
+ `clear`: Clear all contents. Add this code from autor StevenLiekens (https://github.com/danielfarrell/bootstrap-combobox/issues/240)
 
 
 ## Dependencies

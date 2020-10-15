@@ -44,7 +44,6 @@
         this.refresh();
         this.transferAttributes();
         this.listen();
-        this.clear();
     };
 
     Combobox.prototype = {
